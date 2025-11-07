@@ -1,4 +1,4 @@
-# 🎙 The Empathy Engine
+# 🎙 Arpita's Empathy Engine
 ### Emotion-Aware Speech Synthesis using AI
 
 ---
@@ -100,6 +100,8 @@ Each emotion maps to a specific *speech configuration*:
 | Disgust | Slow | −2 semitones | −3 dB |
 | Neutral | Normal | 0 | 0 |
 
+## Glimpse of the interface
+![WhatsApp Image 2025-11-07 at 19 17 37_fc77883c](https://github.com/user-attachments/assets/f45aa3c4-545a-485e-8339-0b7c8f9c6d19)
 ---
 
 ## 🧰 Installation
@@ -141,8 +143,6 @@ Confidence score
 
 Playable expressive voice output
 
-![WhatsApp Image 2025-11-07 at 19 17 37_14c6eb01](https://github.com/user-attachments/assets/3de91d04-75ee-44a6-86f0-078fd4d70a84)
-
 📦 Requirements
 makefile
 Copy code
@@ -179,4 +179,5 @@ arpitta19@gmail.com
 showcasing the integration of NLP emotion detection and TTS expressiveness in a clean, open-source prototype.
 
 🎙 From emotion to expression — giving AI a human voice.
+
 
