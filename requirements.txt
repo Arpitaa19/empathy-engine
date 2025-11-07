@@ -1,0 +1,16 @@
+# Core dependencies
+transformers==4.44.2
+torch>=2.2.0
+argparse==1.4.0
+
+# Text-to-Speech
+gTTS==2.5.3
+
+# Audio processing
+pydub==0.25.1
+ffmpeg-python==0.2.0
+
+# Optional: progress bars, printing, etc. (useful but not required)
+tqdm==4.66.1
+Flask==3.0.3
+
