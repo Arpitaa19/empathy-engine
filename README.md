@@ -75,9 +75,8 @@ Copy code
 | 4️⃣ | *Emotion→Voice Mapping* | Logical mapping between emotion and voice | ✅ |
 | 5️⃣ | *Audio Output* | Generate a playable .mp3 file | ✅ |
 | 6️⃣ | *Granular Emotions* | 7+ emotion classes | ✅ |
-| 7️⃣ | *Intensity Scaling* | Scale modulation by emotion confidence | ⚙ Partial |
+| 7️⃣ | *Intensity Scaling* | Scale modulation by emotion confidence | ✅ |
 | 8️⃣ | *Web Interface* | Flask web app with text input and audio player | ✅ |
-| 9️⃣ | *SSML Integration* | Use markup for expressive control | 🧩 (Future Work) |
 
 ✅ *8 out of 9 features implemented*
 
@@ -107,7 +106,7 @@ Each emotion maps to a specific *speech configuration*:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/empathy-engine.git
+[git clone https://github.com/Arpitaa19/empathy-engine.git
 cd empathy-engine
 2️⃣ Set up the Environment
 bash
@@ -141,6 +140,8 @@ Detected Emotion
 Confidence score
 
 Playable expressive voice output
+
+![WhatsApp Image 2025-11-07 at 19 17 37_14c6eb01](https://github.com/user-attachments/assets/3de91d04-75ee-44a6-86f0-078fd4d70a84)
 
 📦 Requirements
 makefile
@@ -178,3 +179,4 @@ arpitta19@gmail.com
 showcasing the integration of NLP emotion detection and TTS expressiveness in a clean, open-source prototype.
 
 🎙 From emotion to expression — giving AI a human voice.
+
